@@ -1,0 +1,23 @@
+
+https://www.portalesdeluruguay.com.uy
+
+
+https://www.portalesdeluruguay.com.uy/es/terrenos
+
+
+
+https://www.portalesdeluruguay.com.uy/es/terrenos/page_1
+https://www.portalesdeluruguay.com.uy/es/terrenos/page_{page_number}
+
+
+
+Punta de este
+La Barra
+Manantiales
+Jose Ignacio
+Garzon
+La Paloma
+La Pedrera
+Cabo Polonio
+Barra de Valizas
+Punta del Diablo

@@ -1,0 +1,52 @@
+http://www.antoniomieres.com.uy/propiedades?p=0&tipo=P&ope=V&loc=rocha&par=All&b=All&a1=All&cod=
+http://www.antoniomieres.com.uy/propiedades?p=0&tipo=P&ope=V&loc=maldonado&par=All&b=All&a1=All&cod=
+
+http://www.antoniomieres.com.uy/propiedades?p=0&tipo=Q&ope=V&loc=rocha&par=All&b=All&a1=All&cod=
+http://www.antoniomieres.com.uy/propiedades?p=0&tipo=Q&ope=V&loc=maldonado&par=All&b=All&a1=All&cod=
+
+http://www.antoniomieres.com.uy/propiedades?p=0&tipo=T&ope=V&loc=rocha&par=All&b=All&a1=All&cod=
+http://www.antoniomieres.com.uy/propiedades?p=0&tipo=T&ope=V&loc=maldonado&par=All&b=All&a1=All&cod=
+
+
+
+
+http://www.antoniomieres.com.uy/propiedades?p={page_number}&tipo={land_type}&ope=V&loc={department}&par=All&b=All&a1=All&cod=
+
+
+page_number = 0,1,....
+department = ["maldonado", "rocha"]
+land_type = ['P', 'Q', 'T']
+P - Campo
+Q - Chacra
+T - Terreno
+
+
+        https://xintel.com.ar/api/?cache=08072020&json=fichas.propiedades&amaira=false&suc=AT1&global=LU3AIKPR4F6ZSUY8GQODKWRO8&emprendimiento=True&oppel=&esweb=&apiK=4m17zq256jvsm24wOnqbev43y&id=1413&_=1594197000822
+url1 = "https://xintel.com.ar/api/?cache=08072020&json=fichas.propiedades&amaira=false&suc=ATM&global=LU3AIKPR4F6ZSUY8GQODKWRO8&emprendimiento=True&oppel=&esweb=&apiK=4m17zq256jvsm24wOnqbev43y&id=5921&_=1594194841261"
+
+url2 = "https://xintel.com.ar/api/?cache=08072020&json=fichas.propiedades&amaira=false&suc=AT2&global=LU3AIKPR4F6ZSUY8GQODKWRO8&emprendimiento=True&oppel=&esweb=&apiK=4m17zq256jvsm24wOnqbev43y&id=5057&_=1594195092584"
+
+
+
+
+
+json
+
+resultado >
+
+ficha > [{}]
+
+in_tip
+in_loc
+in_bar
+in_cal
+
+
+precio
+in_val
+
+in_sto
+
+
+
+superficie > dato > lastone

@@ -1,0 +1,24 @@
+This is a web scraping project to find the price of properties and have that information well organized
+
+Objective:
+Get information from the following sites and show results
+
+https://www.zonaprop.com.ar/inmuebles-uruguay.html
+http://www.antoniomieres.com.uy
+https://www.portalesdeluruguay.com.uy
+http://www.camposonline.com.uy/campos/index.php
+
+Focus only on properties for sale (terreno, chacra, campo) and in the named locations
+
+Punta de este
+La Barra
+Manantiales
+Jose Ignacio
+Garzon
+La Paloma
+La Pedrera
+Cabo Polonio
+Barra de Valizas
+Punta del Diablo
+
+

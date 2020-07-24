@@ -1,0 +1,66 @@
+http://www.camposonline.com.uy/campos/resultado-de-busqueda.php?tipo_op=&has=&pais=&depto_URUGUAY=&depto_BRASIL=&depto_ARGENTINA=&depto_PARAGUAY=&depto_BOLIVIA=&precio=&preciototal=&explota=&ic=&suelo=&f_ref=&filt=1
+http://www.camposonline.com.uy/campos/resultado-de-busqueda.php?tipo_op=&has=&pais=URUGUAY&depto_URUGUAY=&depto_BRASIL=&depto_ARGENTINA=&depto_PARAGUAY=&depto_BOLIVIA=&precio=&preciototal=&explota=&ic=&suelo=&f_ref=&filt=1
+http://www.camposonline.com.uy/campos/resultado-de-busqueda.php?tipo_op=Venta+o+Alquiler&has=&pais=URUGUAY&depto_URUGUAY=&depto_BRASIL=&depto_ARGENTINA=&depto_PARAGUAY=&depto_BOLIVIA=&precio=&preciototal=&explota=&ic=&suelo=&f_ref=&filt=1
+
+
+
+
+
+
+http://www.camposonline.com.uy/campos/resultado-de-busqueda.php?tipo_op=Venta&has=&pais=URUGUAY&depto_URUGUAY=Maldonado&depto_BRASIL=&depto_ARGENTINA=&depto_PARAGUAY=&depto_BOLIVIA=&precio=&preciototal=&explota=&ic=&suelo=&f_ref=&filt=1
+http://www.camposonline.com.uy/campos/resultado-de-busqueda.php?tipo_op=Venta&has=&pais=URUGUAY&depto_URUGUAY=Rocha&depto_BRASIL=&depto_ARGENTINA=&depto_PARAGUAY=&depto_BOLIVIA=&precio=&preciototal=&explota=&ic=&suelo=&f_ref=&filt=1
+
+english
+spanish
+form get attr name
+
+
+Operation
+Operación
+tipo_op
+
+
+Amount of Has
+Cantidad de Has
+has
+
+
+country
+pais
+pais
+
+
+Location
+Ubicación
+depto_URUGUAY
+depto_(piasname)
+
+
+USD / Has
+USD / Has
+precio
+
+
+Investment USD
+Inversión USD
+preciototal
+
+
+Fitness
+Aptitud
+explota
+
+
+CONEAT Index
+Índice CONEAT
+ic
+
+
+Soil Type
+Tipo de Suelo
+suelo
+
+
+Reference number
+N° de Referencia
+f_ref

@@ -1,0 +1,24 @@
+
+
+Search :
+
+	Operation
+		Sale
+
+	country
+		URUGUAY
+
+
+	Location
+		Maldonado
+		Rocha
+
+
+
+Output :
+	Refernce Number
+	HA
+	Price/HA
+	Total investment= ha * prices/ha
+	Total Inversion
+	Link for that land on this site

@@ -1,0 +1,21 @@
+
+Search :
+	Operación
+		Venta
+
+	País
+		URUGUAY
+
+	Ubicación
+		Maldonado
+		Rocha
+
+
+
+Output :
+	N DE REFERENCIA
+	HA
+	PRECIO/HA
+	Total investment= ha * precio/ha
+	INVERSION TOTAL
+	Link
